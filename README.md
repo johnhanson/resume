@@ -80,7 +80,7 @@
 * Used maven to build a .war and then deployed it on a Tomcat7 server
 * Configured Tomcat to use JDBC datapool and a new JNDI read only datasource, with Spring and Spring Beans
 
-###**Cal Poly Pomona Foundation**, Pomona, CA
+### **Cal Poly Pomona Foundation**, Pomona, CA
 
 >*Lead Technician at Shop 24*
 
