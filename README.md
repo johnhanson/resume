@@ -64,6 +64,7 @@
 * Web master of the [pep band in college](https://www.cpp.edu/~pepband/) (2014-2016) 
 * Made a reddit bot that searched reddit comments and then replied to them if the comments satisfied a regex
 * Made a RESTFUL API with PHP that interfaced with a database for a school project
+* Created an AI that played connect four against a human
 * Solved the Producer and Consumer problem using both Mutexes as well with Semaphores
 * Implemented InterProcess Communication using Shared Memory, Mapped Memory, Pipes, and Sockets
 * Modified a special Linux Kernel (OS/161) to change the Boot output and added a debug function and message
@@ -78,6 +79,12 @@
   * waitpid()
   * \_exit()
   * execv()
+
+**Interests**
+ * Interested in and took classes in assembly (MIPS) and low level programming
+ * Excited for the many advancements in AI that are bound to happen
+ * Hooked on game design and creating memorable events, situations, and mechanics through D&D and game development
+ * Continually kept up to date with computer hardware releases and builds computers for friends and family
 
 
 **Education**
